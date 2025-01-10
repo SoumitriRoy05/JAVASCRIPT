@@ -1,3 +1,5 @@
+//Design a JavaScript program that represents a user profile  including various attributes. Write a script that determines and logs the data type of the userName property using the typeof operator to demonstrate how to access object properties dynamically
+
 const profile={
     userName: "shradhakhapra",
     num_posts: 195,
