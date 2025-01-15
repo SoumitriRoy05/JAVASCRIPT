@@ -4,6 +4,6 @@
 //3. Add "AMAZON" at the end of the array
 
 let companies=["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
-//companies.shift();
-//companies.splice(2,1,"Ola");
+companies.shift();
+companies.splice(2,1,"Ola");
 companies.push("Amazon");
