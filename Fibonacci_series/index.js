@@ -1,3 +1,5 @@
+// Develop a JavaScript function that generates the Fibonacci sequence up to a given number of terms. The function should take an integer 𝑛 n as input and return an array containing the first 𝑛 n numbers of the Fibonacci sequence.
+
 function fibonacciGenerator()
 {
     var output=[];
