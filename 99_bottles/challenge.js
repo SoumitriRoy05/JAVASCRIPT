@@ -1,3 +1,5 @@
+// Develop a JavaScript program that simulates the classic "99 Bottles of Beer" song. The program should start with 99 bottles and count down to 0, displaying the lyrics line by line.
+
 var numberOfBottles = 99
 while (numberOfBottles >= 0) {
     var bottleWord = "bottle";
